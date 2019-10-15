@@ -1,0 +1,10 @@
+(librepcb_library 818391df-38d3-4bc3-91b0-d2b256478c33
+ (name "Gfrörli")
+ (description "Custom library elements used in the Gfrör.li hardware.")
+ (keywords "")
+ (author "Coredump")
+ (version "0.1")
+ (created 2019-10-15T22:58:03Z)
+ (deprecated false)
+ (url "https://github.com/gfroerli/gfroerli.lplib")
+)
