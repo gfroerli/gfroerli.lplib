@@ -7,4 +7,5 @@
  (created 2019-10-15T22:58:03Z)
  (deprecated false)
  (url "https://github.com/gfroerli/gfroerli.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
 )
